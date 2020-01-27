@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+pyspark
+scikit-learn
+scikit-surprise
+gcsfs
+plotly
+time
+random
